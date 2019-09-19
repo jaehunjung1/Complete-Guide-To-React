@@ -1,6 +1,6 @@
 # IDE Project files
 .idea/*
-**.idea/**
+.idea/
 
 # Logs
 logs
