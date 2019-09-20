@@ -9,6 +9,10 @@ const App = () => {
       <h1>
         Happy World!
       </h1>
+      <label htmlFor="id">
+        Enter Name:&nbsp;
+      </label>
+      <input type="text" id={"id"}/>
       <button>
         {buttonText}
       </button>
